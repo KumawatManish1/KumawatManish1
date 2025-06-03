@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manishmadanlalk@gmail.com](mailto:manishmadanlalk@gmail.com)
-* 🧠  I'm learning Data Structures And Algorithms from GeeksForGeeks
 * 🤝  I'm open to collaborating on any interesting projects
 
 <a href="https://www.github.com/KumawatManish1" target="_blank" rel="noreferrer"><img
