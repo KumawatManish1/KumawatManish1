@@ -23,6 +23,7 @@
 
 ---
 
+<div align="center">
 ## 🛠️ **Tech Stack & Tools**
 
 <div align="center">
@@ -94,7 +95,7 @@
 `June 2025 - Present`  
 ✔ Developing **scalable full-stack applications**  
 ✔ Implementing **AI/ML solutions** for business automation  
-✔ Collaborating in **Agile workflows** with cross-functional teams  
+  
 
 ---
 
@@ -112,12 +113,7 @@
   
 </div>
 
----
 
-## 🌱 **Currently Learning**
-- Advanced Deep Learning (Transformers, GANs)
-- Cloud-Native AI Deployment (AWS SageMaker)
-- Real-time Data Processing (Apache Kafka)
 
 ---
 
