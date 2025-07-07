@@ -23,8 +23,7 @@
 
 ---
 
-<div align="center">
-## 🛠️ **Tech Stack & Tools**
+
 
 <div align="center">
 
@@ -117,11 +116,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KumawatManish1&label=PROFILE+VIEWS&color=blueviolet&style=flat" alt="Profile Views"/>
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 <p align="center">
   <i>Let's build something amazing together! 🚀</i>
