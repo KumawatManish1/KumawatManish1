@@ -108,17 +108,7 @@
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumawatManish1&theme=react-dark&hide_border=true&area=true&height=300)
 
-  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KumawatManish1&theme=github-compact&hide_border=true&area=true&height=300" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumawatManish1&theme=github_dark" alt="GitHub Contributions Calendar" width="100%"/>
-</p>
-  
-</div>
 
 
 
