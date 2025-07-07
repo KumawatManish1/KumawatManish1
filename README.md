@@ -98,17 +98,25 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📅 GitHub Contributions
 
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KumawatManish1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KumawatManish1&layout=compact&theme=radical&hide_border=true)
-  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KumawatManish1&theme=radical&hide_border=true)
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KumawatManish1&theme=react-dark&hide_border=true&area=true&height=300)
+
+  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KumawatManish1&theme=github-compact&hide_border=true&area=true&height=300" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumawatManish1&theme=github_dark" alt="GitHub Contributions Calendar" width="100%"/>
+</p>
   
 </div>
 
